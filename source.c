@@ -26,8 +26,9 @@ int main(void) {
   for (int i = 0; i < times; i++) {
     scanf("%d", &testList[i]);
   }
+  s
 
-  int tl;
+      int tl;
 
   for (int i = 0; i < times; i++) {
     tl = testList[i];
